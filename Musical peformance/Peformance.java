@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 //create a class call client to record the details of the client
-class Client{
+public class Client{
     private int client_id;
     private String name_Of_the_customer;
     private String nationality_of_the_customer;
